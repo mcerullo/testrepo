@@ -3,7 +3,7 @@ title: "Happy R and Github"
 author: "Marcelo Cerullo"
 date: "7/10/2019"
 output: 
-  html_document: 
+  github_document: 
     keep_md: yes
 ---
 
